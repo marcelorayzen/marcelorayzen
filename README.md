@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcelo Rayzen
 
-<!--
-**marcelorayzen/marcelorayzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor **Full-Stack** e **Analista de QA**, com experiência em:
+- Desenvolvimento Web com **Next.js, React e TypeScript**
+- Back-end com **Node.js / APIs REST**
+- Automação de Testes com **Java, Selenium, Cucumber**
+- Projetos completos para e-commerce, PDV, oficinas e gestão de estoque
 
-Here are some ideas to get you started:
+🎯 Meu foco: criar soluções reais para problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que utilizo
+
+### Front-end
+- Next.js • React • TypeScript • Zustand • TailwindCSS
+
+### Back-end
+- Node.js • Express • REST APIs • Autenticação JWT
+
+### QA / Testes
+- Selenium • Cucumber • JUnit • Testes funcionais e automatizados
+
+### Dados e BD
+- SQL • Oracle • Firestore NoSQL • Power BI
+
+---
+
+## 🔥 Projetos em Destaque
+
+### 📝 Minha-Lista — App de Lista de Tarefas  
+Aplicativo em Next.js + TypeScript com filtros dinâmicos e persistência local.  
+🔗 https://github.com/marcelorayzen/minha-lista
+
+---
+
+### 🔧 Auto-Center Gestão — Sistema para Oficinas  
+App para controle de ordens de serviço, estoque e faturamento.  
+🔗 https://github.com/marcelorayzen/Auto-center-
+
+---
+
+### 🍷 Adega-Master — Sistema para Adegas  
+PDV + estoque + relatórios + dashboards.  
+🔗 https://github.com/marcelorayzen/Adega-Master
+
+---
+
+## 📫 Como me encontrar
+📌 **LinkedIn:** linkedin.com/in/marcelo-augusto-572669221/  
+📌 **Email:** marcelo.rayzen@live.com  
