@@ -1,9 +1,17 @@
 # Marcelo Rayzen — QA Automation Engineer | Software Developer
+👋 Olá, eu sou o Marcelo Rayzen
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/marcelo-augusto-572669221/)
-[![GitHub followers](https://img.shields.io/github/followers/marcelorayzen?label=Follow&style=flat)](https://github.com/marcelorayzen)
-[![Profile views](https://komarev.com/ghpvc/?username=marcelorayzen&color=blue)](https://github.com/marcelorayzen)
+Sou Desenvolvedor **Full-Stack** e **Analista de QA**, com experiência em:
+- Desenvolvimento Web com **Next.js, React e TypeScript**
+- Back-end com **Node.js / APIs REST**
+- Automação de Testes com **Java, Selenium, Cucumber**
+- Projetos completos para e-commerce, PDV, oficinas e gestão de estoque
 
+🎯 Meu foco: criar soluções reais para problemas reais.
+
+---
+
+## 🚀 Tecnologias que utilizo
 ## Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -29,3 +37,33 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🔥 Projetos em Destaque
+
+### 📝 Minha-Lista — App de Lista de Tarefas  
+Aplicativo em Next.js + TypeScript com filtros dinâmicos e persistência local.  
+🔗 https://github.com/marcelorayzen/minha-lista
+
+---
+
+### 🔧 Auto-Center Gestão — Sistema para Oficinas  
+App para controle de ordens de serviço, estoque e faturamento.  
+🔗 https://github.com/marcelorayzen/Auto-center-
+
+---
+
+### 🍷 Adega-Master — Sistema para Adegas  
+PDV + estoque + relatórios + dashboards.  
+🔗 https://github.com/marcelorayzen/Adega-Master
+
+---
+
+## 📫 Como me encontrar
+📌 **LinkedIn:** linkedin.com/in/marcelo-augusto-572669221/  
+📌 **Email:** marcelo.rayzen@live.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/marcelo-augusto-572669221/)
+[![GitHub followers](https://img.shields.io/github/followers/marcelorayzen?label=Follow&style=flat)](https://github.com/marcelorayzen)
+[![Profile views](https://komarev.com/ghpvc/?username=marcelorayzen&color=blue)](https://github.com/marcelorayzen)
+
