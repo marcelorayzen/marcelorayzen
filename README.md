@@ -1,13 +1,28 @@
-# Marcelo Rayzen — QA Automation Engineer | Software Developer
-👋 Olá, eu sou o Marcelo Rayzen
+<h1 align="center">Marcelo Rayzen</h1>
+<h3 align="center">QA Automation Engineer • Software Developer • AI-Assisted Testing</h3>
 
-Sou Desenvolvedor **Full-Stack** e **Analista de QA**, com experiência em:
-- Desenvolvimento Web com **Next.js, React e TypeScript**
-- Back-end com **Node.js / APIs REST**
-- Automação de Testes com **Java, Selenium, Cucumber**
-- Projetos completos para e-commerce, PDV, oficinas e gestão de estoque
+<p align="center">
+Qualidade de software, automação, IA aplicada e visão empreendedora
+</p>
 
-🎯 Meu foco: criar soluções reais para problemas reais.
+---
+
+## 👨‍💻 Sobre mim
+
+Sou **QA Automation Engineer e Software Developer** com experiência em automação de testes,
+testes Web e API, BDD, qualidade de software e **desenvolvimento assistido por IA**.
+
+Aplico **AI-assisted coding e prompt engineering** para acelerar desenvolvimento,
+identificar falhas, criar cenários de testes, validar APIs e melhorar a qualidade
+de sistemas. Atuo com **Selenium, Cucumber, RestAssured, Postman, Java, TypeScript,
+Next.js**, integrações via APIs e workflows automatizados.
+
+Além da área de TI, também sou **empreendedor**, atuando de forma independente
+em **marcenaria e montagem de móveis**, aplicando princípios de **processos,
+qualidade, padronização e entrega**, o que fortalece minha visão de negócio
+e responsabilidade sobre resultados.
+
+
 
 ---
 
