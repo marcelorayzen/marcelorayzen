@@ -5,24 +5,23 @@
 Qualidade de software, automação, IA aplicada e visão empreendedora
 </p>
 
----
-
 ## 👨‍💻 Sobre mim
 
-Sou **QA Automation Engineer e Software Developer** com experiência em automação de testes,
-testes Web e API, BDD, qualidade de software e **desenvolvimento assistido por IA**.
+Sou **QA Automation Engineer e Software Developer**, com experiência em automação de testes,
+desenvolvimento Web e API, **qualidade de software**, **governança de dados** e
+**conformidade com LGPD**.
 
-Aplico **AI-assisted coding e prompt engineering** para acelerar desenvolvimento,
-identificar falhas, criar cenários de testes, validar APIs e melhorar a qualidade
-de sistemas. Atuo com **Selenium, Cucumber, RestAssured, Postman, Java, TypeScript,
-Next.js**, integrações via APIs e workflows automatizados.
+Utilizo **IA e prompt engineering** para apoiar o desenvolvimento e a automação de testes,
+análise de falhas, validação de regras de negócio, contratos de API e geração de massa de dados.
+Atuo com **Selenium, Cucumber (BDD), RestAssured, Postman, Java, TypeScript, Next.js**,
+integrações via APIs e **workflows automatizados (n8n)**.
 
-Além da área de TI, também sou **empreendedor**, atuando de forma independente
-em **marcenaria e montagem de móveis**, aplicando princípios de **processos,
-qualidade, padronização e entrega**, o que fortalece minha visão de negócio
-e responsabilidade sobre resultados.
+Tenho formação complementar em **Ética no Desenvolvimento de Sistemas**, **ISO/IEC 27001**,
+**privacidade de dados**, **LGPD aplicada à IA** e **governança de dados**, garantindo
+qualidade técnica alinhada à responsabilidade e segurança da informação.
 
-
+Paralelamente à TI, atuo como **empreendedor na área de marcenaria e montagem de móveis**,
+o que fortalece minha visão de processos, qualidade, padronização e entrega de valor ao cliente.
 
 ---
 
@@ -56,10 +55,6 @@ e responsabilidade sobre resultados.
 ---
 
 ## 🔥 Projetos em Destaque
-
-### 📝 Minha-Lista — App de Lista de Tarefas  
-Aplicativo em Next.js + TypeScript com filtros dinâmicos e persistência local.  
-🔗 https://github.com/marcelorayzen/minha-lista
 
 ---
 
